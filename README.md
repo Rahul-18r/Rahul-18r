@@ -1,23 +1,22 @@
-<h1 align="center">Hey 👋, I'm Rahul M</h1>
-
-<h3 align="center">🚀 Backend Developer | Java Enthusiast | Tech Explorer 🚀</h3>
-
-
+<!-- Cool Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F78DA7&center=true&vCenter=true&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+Rahul+M;Backend+Developer+%7C+Java+Enthusiast+%7C+Tech+Explorer+%F0%9F%9A%80" />
+</p>
 
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning **Spring Security**, **Microservices** and **ML for Backend**
+- 🌱 Currently learning **Spring Security**, **Microservices**, and **ML for Backend**
 - 💻 Building **Java projects** and **backend systems** that scale
 - 🔥 Passionate about **Code Quality**, **Problem Solving**, and **Backend Architecture**
-- 🎯 Goal for 2025: **Master Cloud + DevOps basics (AWS, Docker, Kubernetes)**
+- 🎯 2025 Goal: **Master Cloud + DevOps (AWS, Docker, Kubernetes)**
 
 ---
 
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,html,css,js,mysql,mongodb,git,github,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,html,css,js,mysql,mongodb,git,github,postman,docker" alt="Tech Stack" />
 </p>
 
 ---
@@ -25,27 +24,24 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rahul-18r&theme=onedark&title=MultiLanguage,Commits,Repositories,Stars" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rahul-18r&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahul-18r&show_icons=true&theme=radical" alt="Rahul's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-18r&theme=radical" alt="Rahul's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahul-18r&theme=radical&show_icons=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-18r&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
 
-## 🔥 Recent Activity Graph
+## 🔥 Recent GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul-18r&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul-18r&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
@@ -54,15 +50,16 @@
 
 <p align="center">
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://linkedin.com/in/your-linkedin-id">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
 
 ---
 
+<!-- Cool Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer"/>
 </p>
