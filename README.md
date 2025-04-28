@@ -14,8 +14,6 @@
 
 ---
 
-## 🛠️ Technologies & Tools
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,python,html,css,js,mysql,mongodb,git,github,postman,docker" alt="Tech Stack" />
 </p>
