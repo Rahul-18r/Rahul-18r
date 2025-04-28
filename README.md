@@ -1,5 +1,6 @@
 <h1 align="center">Hey 👋, I'm Rahul M</h1>
-<h3 align="center">Backend Developer | Java Enthusiast | Tech Explorer 🚀</h3>
+
+<h3 align="center">🚀 Backend Developer | Java Enthusiast | Tech Explorer 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&lines=Backend+Developer;Java+%7C+Spring+Boot+Lover;Tech+Explorer+%7C+Always+Learning!" alt="Typing SVG" />
