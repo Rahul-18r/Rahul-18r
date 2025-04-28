@@ -1,6 +1,6 @@
 <!-- Cool Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F78DA7&center=true&vCenter=true&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+Rahul+M;Backend+Developer+%7C+Java+Enthusiast+%7C+Tech+Explorer+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F78DA7&center=true&vCenter=true&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+Rahul+Mogaveer;" />
 </p>
 
 ---
@@ -23,9 +23,11 @@
 
 ## 🏆 GitHub Trophies
 
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rahul-18r&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rahul-18r&theme=gruvbox&row=1&no-bg=true&margin-w=10" />
 </p>
+
 
 ---
 
