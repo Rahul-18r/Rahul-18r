@@ -24,4 +24,4 @@
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](your-linkedin-profile)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail)](mailto:your-email@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail)](mailto:rahulmogaveer18@gmail.com)
