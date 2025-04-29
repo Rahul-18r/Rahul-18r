@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning **Spring Security**, **Microservices**, and **ML for Backend**
+- 🌱 Currently learning **Spring Security**, **Microservices**, and **Backend development**
 - 💻 Building **Java projects** and **backend systems** that scale
 - 🔥 Passionate about **Code Quality**, **Problem Solving**, and **Backend Architecture**
 - 🎯 2025 Goal: **Master Cloud + DevOps (AWS, Docker, Kubernetes)**
