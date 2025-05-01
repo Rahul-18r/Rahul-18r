@@ -1,6 +1,6 @@
 <!-- Cool Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B%2C+I'm+Rahul;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B%2C+I'm+Rahul;" alt="Typing SVG" />
 </p>
 
 ---
@@ -22,8 +22,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahul-18r&theme=radical&show_icons=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-18r&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahul-18r&theme=radical&show_icons=true&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-18r&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
 ---
@@ -31,7 +31,7 @@
 ## 🔥 Recent GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul-18r&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul-18r&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
@@ -39,17 +39,20 @@
 ## 🌍 Connect with Me
 
 <p align="center">
-  <a href="mailto:rahulmogaveer18@gmail.com">
+  <span>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin-id">
+    rahulmogaveer18@gmail.com
+  </span>
+  &nbsp;&nbsp;
+  <span>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+    linkedin.com/in/your-linkedin-id
+  </span>
 </p>
 
 ---
 
 <!-- Cool Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer" alt="Footer Wave" />
 </p>
