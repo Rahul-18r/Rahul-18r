@@ -6,6 +6,7 @@
 ---
 
 ## 🚀 About Me
+
 - 🌱 Currently learning **Spring Security**, **Microservices**, and **Backend development**
 - 💻 Building **Java projects** and **backend systems** that scale
 - 🔥 Passionate about **Code Quality**, **Problem Solving**, and **Backend Architecture**
@@ -37,10 +38,9 @@
 ---
 
 ## 🌍 Connect with Me
-        
-  <p align="center">
 
- <a href="mailto:rahulmogaveer18@gmail.com">
+<p align="center">
+  <a href="mailto:rahulmogaveer18@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://linkedin.com/in/your-linkedin-id">
