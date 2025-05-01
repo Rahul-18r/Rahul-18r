@@ -1,107 +1,55 @@
-<!-- Profile Header -->
-<h1 align="center">Hey 👋, I'm Rahul</h1>
+<!-- Cool Header -->
 <p align="center">
-  <b>Java Backend Developer | Spring Enthusiast | Problem Solver</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B%2C+I'm+Rahul;" />
 </p>
 
-<div align="center">
-  
-  ```java
-  class AboutMe {
-    String[] currentlyLearning = {"Spring Security", "Microservices", "Backend Architecture"};
-    String[] buildingProjects = {"Java Applications", "Scalable Backend Systems"};
-    String[] passionateAbout = {"Clean Code", "Problem Solving", "System Design"};
-    String goal2025 = "Master Cloud + DevOps (AWS, Docker, Kubernetes)";
-  }
-  ```
-  
-</div>
+---
+
+## 🚀 About Me
+- 🌱 Currently learning **Spring Security**, **Microservices**, and **Backend development**
+- 💻 Building **Java projects** and **backend systems** that scale
+- 🔥 Passionate about **Code Quality**, **Problem Solving**, and **Backend Architecture**
+- 🎯 2025 Goal: **Master Cloud + DevOps (AWS, Docker, Kubernetes)**
 
 ---
 
-## 💻 Tech Stack
-
-<table align="center">
-  <tr>
-    <td align="center"><b>Languages</b></td>
-    <td align="center"><b>Frameworks</b></td>
-    <td align="center"><b>Databases</b></td>
-    <td align="center"><b>Tools</b></td>
-  </tr>
-  <tr>
-    <td align="center">Java • Python<br>HTML • CSS • JS</td>
-    <td align="center">Spring • Spring Boot<br>Hibernate • JUnit</td>
-    <td align="center">MySQL • MongoDB<br>PostgreSQL</td>
-    <td align="center">Git • GitHub<br>Docker • Postman</td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-  ```
-  ┌────────── Coding Activity ──────────┐     ┌─────── Contribution Stats ───────┐
-  │                                     │     │                                  │
-  │    ████████░░░░░░░░░░░░░░           │     │   Commits: ██████████████░░░░    │
-  │    Java      - 65%                  │     │   PRs:     ███████░░░░░░░░░░░    │
-  │                                     │     │   Issues:  █████░░░░░░░░░░░░░    │
-  │    ███░░░░░░░░░░░░░░░░░░░░          │     │   Contribs:████████████░░░░░░    │
-  │    Spring    - 15%                  │     │                                  │
-  │                                     │     └──────────────────────────────────┘
-  │    ██░░░░░░░░░░░░░░░░░░░░░          │      
-  │    Python    - 10%                  │     ┌─────── Current Streak ───────────┐
-  │                                     │     │                                  │
-  │    ██░░░░░░░░░░░░░░░░░░░░░          │     │   █ █ █ █ █ █ █ █ █ █ █ █ █ █   │
-  │    Other     - 10%                  │     │   Current: 14 days               │
-  │                                     │     │   Best:    21 days               │
-  └─────────────────────────────────────┘     └──────────────────────────────────┘
-  ```
-  
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<table align="center">
-  <tr>
-    <td>
-      <b>🛒 E-Commerce API</b><br>
-      RESTful service built with Spring Boot & MySQL
-    </td>
-    <td>
-      <b>🔐 Auth Microservice</b><br>
-      JWT-based authentication system with Spring Security
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>📊 Data Analytics Dashboard</b><br>
-      Interactive visualization tool with Spring & React
-    </td>
-    <td>
-      <b>☁️ Cloud File Storage</b><br>
-      Scalable storage solution with AWS S3 integration
-    </td>
-  </tr>
-</table>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-  <pre>
-  📧 rahulmogaveer18@gmail.com  |  💼 linkedin.com/in/your-linkedin-id
-  </pre>
-</div>
-
----
-
-<!-- Footer -->
 <p align="center">
-  <i>"Clean code always looks like it was written by someone who cares." — Robert C. Martin</i>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,html,css,js,mysql,mongodb,git,github,postman,docker" alt="Tech Stack" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahul-18r&theme=radical&show_icons=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-18r&theme=radical&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🔥 Recent GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul-18r&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🌍 Connect with Me
+
+<p align="center">
+  <a href="mailto:rahulmogaveer18@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin-id">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
+---
+
+<!-- Cool Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer"/>
 </p>
