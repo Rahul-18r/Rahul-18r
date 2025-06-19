@@ -43,7 +43,7 @@
   <a href="mailto:rahulmogaveer18@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-id">
+  <a href="[https://linkedin.com/in/your-linkedin-id](https://www.linkedin.com/in/rahul-m-a8722b256/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
