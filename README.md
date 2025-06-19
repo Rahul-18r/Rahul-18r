@@ -8,12 +8,13 @@
 ## 🚀 About Me
 
 - 🌱 Currently learning **Spring Security**, **Microservices**, and **Backend development**
-- 💻 Building **Java projects** and **backend systems** 
+- 💻 Building **Java projects** and **backend systems**
 - 🔥 Passionate about **Code Quality**, **Problem Solving**, and **Backend Architecture**
 - 🎯 2025 Goal: **Master Cloud + DevOps (AWS, Docker, Kubernetes)**
 
 ---
 
+<!-- Tech Stack (static, non-clickable icons) -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,python,html,css,js,mysql,mongodb,git,github,postman,docker" alt="Tech Stack" />
 </p>
@@ -24,7 +25,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rahul-18r&theme=radical&show_icons=true&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-18r&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Rahul-18r&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
 ---
@@ -43,7 +44,7 @@
   <a href="mailto:rahulmogaveer18@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="[https://linkedin.com/in/your-linkedin-id](https://www.linkedin.com/in/rahul-m-a8722b256/)">
+  <a href="https://www.linkedin.com/in/rahul-m-a8722b256/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
