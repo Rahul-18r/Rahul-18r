@@ -1,57 +1,67 @@
-<!-- Cool Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B%2C+I'm+Rahul;" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B%2C+I'm+Rahul;Backend+Java+Developer;Building+Scalable+Solutions" alt="Typing SVG" />
+</div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-- 🌱 Currently learning **Spring Security**, **Microservices**, and **Backend development**
-- 💻 Building **Java projects** and **backend systems**
-- 🔥 Passionate about **Code Quality**, **Problem Solving**, and **Backend Architecture**
-- 🎯 2025 Goal: **Master Cloud + DevOps (AWS, Docker, Kubernetes)**
+### 🚀 **Backend Developer** | **Java Spring Boot** | **Microservices**
 
----
+*Passionate about building robust, scalable backend systems*
 
-<!-- Tech Stack (static, non-clickable icons) -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,html,css,js,mysql,mongodb,git,github,postman,docker" alt="Tech Stack" />
-</p>
+</div>
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ **Tech Stack**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahul-18r&theme=radical&show_icons=true&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Rahul-18r&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
-</p>
-
----
-
-## 🔥 Recent GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul-18r&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,mongodb,docker,git,postman&theme=dark" alt="Tech Stack" />
+</div>
 
 ---
 
-## 🌍 Connect with Me
+## 📊 **GitHub Analytics**
 
-<p align="center">
-  <a href="mailto:rahulmogaveer18@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rahul-m-a8722b256/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rahul-18r&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-18r&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
-<!-- Cool Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer" alt="Footer Wave" />
-</p>
+## 🎯 **Currently Learning**
+
+```yaml
+Focus Areas:
+  - Spring Security & JWT Authentication
+  - Microservices Architecture  
+  - AWS Cloud Services
+  - Docker & Kubernetes
+  - System Design Patterns
+```
+
+---
+
+## 🌟 **2025 Goals**
+
+- ☁️ **AWS Certified Developer**
+- 🏗️ **Master Microservices Architecture** 
+- 🚀 **Contribute to Open Source Projects**
+- 📚 **Advanced System Design**
+
+---
+
+<div align="center">
+
+## 📫 **Let's Connect**
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulmogaveer18@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-18r)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
+
+</div>
