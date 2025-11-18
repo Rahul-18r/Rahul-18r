@@ -1,32 +1,32 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B%2C+I'm+Rahul;Backend+Java+Developer;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Rahul;Backend+Java+Developer;Building+Scalable+Solutions" alt="Typing Animation" />
 </div>
 
 ---
 
 <div align="center">
 
-### 🚀 **Backend Developer** | **Java Spring Boot** | **Microservices**
+### 🚀 **Backend Developer** • **Java | Spring Boot | Microservices**
 
-*Passionate about building robust, scalable backend systems*
+*I build robust, scalable backend systems designed for real-world performance.*
 
 </div>
 
 ---
 
-## 🛠️ **Tech Stack**
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,mongodb,docker,git,postman&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,mongodb,docker,git,postman&theme=dark" alt="Tech Stack Icons" />
 </div>
 
 ---
 
-## 📊 **GitHub Analytics**
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rahul-18r&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-18r&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Rahul-18r&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=19D3F3&text_color=9CA3AF" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-18r&layout=compact&theme=tokyonight&hide_border=true&title_color=00D9FF" />
 </div>
 
 <div align="center">
@@ -35,37 +35,55 @@
 
 ---
 
-## 🎯 **Currently Learning**
+## 🔭 Currently Learning
 
-```yaml
 Focus Areas:
-  - Spring Security & JWT Authentication
-  - Microservices Architecture  
-  - AWS Cloud Services
-  - Docker & Kubernetes
-  - System Design Patterns
-```
+- Spring Security & JWT Authentication
+- Microservices Architecture (service discovery, circuit breaker, observability)
+- AWS (ECS, EKS, Lambda, RDS, S3)
+- Docker & Kubernetes (Helm, manifests, CI/CD)
+- System design & scalable patterns (CQRS, event-driven architecture)
 
 ---
 
-## 🌟 **2025 Goals**
+## 🎯 2025 Goals
 
-- ☁️ **AWS Certified Developer**
-- 🏗️ **Master Microservices Architecture** 
-- 🚀 **Contribute to Open Source Projects**
-- 📚 **Advanced System Design**
+- ☁️ Become **AWS Certified Developer**
+- 🏗️ Master **microservices architecture** end-to-end
+- 🚀 Contribute to meaningful **open-source backend projects**
+- 📚 Improve **advanced system design** & performance engineering
+
+---
+
+## 💼 Experience & Engineering Approach
+
+I focus on:
+
+- Building production-grade Java services using **Spring Boot**  
+- Designing **resilient, scalable microservices**  
+- Implementing observability (**Grafana, Prometheus, ELK**)  
+- Ensuring API reliability with **idempotency, retries, rate limiting**  
+- Writing maintainable code supported by **tests & CI/CD pipelines**
+
+---
+
+## 🚀 Projects (High-Level Overview)
+
+- **Order Processing Service** — Kafka, Spring Boot, MySQL → Horizontal scalability  
+- **Auth Service** — JWT, refresh tokens, secure session management  
+- **Monitoring Stack** — Prometheus + Grafana dashboards for live system metrics  
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+  <a href="mailto:rahulmogaveer18@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rahul-18r"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
 
 ---
 
 <div align="center">
-
-## 📫 **Let's Connect**
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulmogaveer18@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-18r)
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
 </div>
