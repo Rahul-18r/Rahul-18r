@@ -46,7 +46,7 @@ Focus Areas:
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - ☁️ Become **AWS Certified Developer**
 - 🏗️ Master **microservices architecture** end-to-end
